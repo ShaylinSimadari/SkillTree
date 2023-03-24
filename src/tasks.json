@@ -4,9 +4,34 @@
             "academic requirments": {
                 "semester 1": {
                     "SENG402":{},
-                    "COSC469":{},
-                    "COSC428":{},
-                    "SENG404":{}
+                    "COSC469":{
+                        "Weeky reflections": {
+                            "Week 1" : {},
+                            "Week 2" : {},
+                            "Week 3" : {},
+                            "Week 6" : {},
+                            "Week 7" : {}
+                        },
+                        "Literature Survey Proposal": {},
+                        "Survey": {},
+                        "Review process": {},
+                        "Oral Presentation": {},
+                        "Final Exam": {}
+                    },
+                    "COSC428":{
+                        "Research project":{},
+                        "Participation":{},
+                        "Final exam":{},
+                        "Labs": {},
+                        "Lectures": {}
+                    },
+                    "SENG404":{
+                        "Assignment 1":{},
+                        "Assignment 2":{},
+                        "Final exam":{},
+                        "Lectures": {},
+                        "Pre Lecture Question": {}
+                    }
                 },
                 "semester 2": {
                     "4 classes": {}
@@ -19,14 +44,5 @@
         "additional class": {
 
         }
-
     }
-}
-
-{
-    get parcel sockburn
-    get haircut
-    get shirt
-    get bandies
-
 }
