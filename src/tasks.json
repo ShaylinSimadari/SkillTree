@@ -1,9 +1,11 @@
 {
-    "degree": {
+    "poop": {
         "4th year": {
             "academic requirments": {
                 "semester 1": {
-                    "SENG402":{},
+                    "SENG402":{
+                        
+                    },
                     "COSC469":{
                         "Weeky reflections": {
                             "Week 1" : {},
